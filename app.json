@@ -1,0 +1,14 @@
+{
+  "name": "bash",
+  "description": "add-ons to run on heroku",
+  "scripts": {
+  },
+  "env": {
+    "shell": {
+      "required": true
+    }
+  },
+  "addons": [
+
+  ]
+}
